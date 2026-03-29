@@ -95,7 +95,7 @@ quencies.
 High Pass Filter (HPF) removes low frequencies and allows higher frequencies.
 Band Pass Filter (BPF) allows signals within a specific frequency band.
 # 3.3 Design / Flow Graph
-![Uploading 3. Filter taps_FIR filter.png…]()
+<img width="1476" height="586" alt="3  Filter taps_FIR filter" src="https://github.com/user-attachments/assets/e3ae13fc-a9ad-4f95-8f81-f2271ed18fbf" />
 Figure 5: Filter Tap Flowgraph
 
 # 3.4 Results (FIR Filter)
